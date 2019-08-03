@@ -10,6 +10,7 @@ WinkXiao 的个人博客
 
 ### 最新
 
+* [设计模式学习-读大话设计模式](http://xw.zhuxf.club/articles/2019/08/02/1564757614749.html)
 * [面向对象的理解](http://xw.zhuxf.club/articles/2019/07/28/1564321124634.html)
 * [HashMap源码阅读笔记](http://xw.zhuxf.club/articles/2019/07/28/1564315040902.html)
 * [世界，你好！](http://xw.zhuxf.club/hello-solo)
