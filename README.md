@@ -10,6 +10,7 @@ WinkXiao 的个人博客
 
 ### 最新
 
+* [消息中间件-消息队列MQ](http://xw.zhuxf.club/articles/2019/08/13/1565709118630.html)
 * [我在 GitHub 上的开源项目](http://xw.zhuxf.club/my-github-repos)
 * [RabbitMQ的工作模式](http://xw.zhuxf.club/articles/2019/08/12/1565621457488.html)
 * [Spring源码环境搭建](http://xw.zhuxf.club/articles/2019/08/11/1565538563567.html)
