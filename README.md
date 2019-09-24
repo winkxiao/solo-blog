@@ -10,11 +10,11 @@ WinkXiao 的个人博客
 
 ### 最新
 
+* [Redis](http://xw.zhuxf.club/articles/2019/09/23/1569253614813.html)
 * [Synchronize与Lock锁](http://xw.zhuxf.club/articles/2019/09/18/1568736864184.html)
 * [ConcurrenthashMap源码阅读](http://xw.zhuxf.club/articles/2019/09/18/1568736780119.html)
 * [Mysql-sql语句练习](http://xw.zhuxf.club/articles/2019/09/18/1568736625133.html)
 * [微服务五大组件-理解](http://xw.zhuxf.club/articles/2019/09/18/1568736562840.html)
-* [Redis](http://xw.zhuxf.club/articles/2019/09/18/1568736493061.html)
 * [LinkedList源码阅读](http://xw.zhuxf.club/articles/2019/09/06/1567784220984.html)
 * [Spring-容器的基本实现](http://xw.zhuxf.club/articles/2019/08/20/1566307774791.html)
 * [ArrayList源码阅读](http://xw.zhuxf.club/articles/2019/08/20/1566307676726.html)
