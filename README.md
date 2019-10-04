@@ -10,8 +10,8 @@ WinkXiao 的个人博客
 
 ### 最新
 
-* [2222](http://xw.zhuxf.club/articles/2019/10/02/1570019714986.html)
-* [111](http://xw.zhuxf.club/articles/2019/10/02/1570019707270.html)
+* [Spring的设计模式](http://xw.zhuxf.club/articles/2019/10/02/1570019714986.html)
+* [Spring-依赖注入](http://xw.zhuxf.club/articles/2019/10/02/1570019707270.html)
 * [Docker-容器化](http://xw.zhuxf.club/articles/2019/09/27/1569597001345.html)
 * [ElastaticSearch](http://xw.zhuxf.club/articles/2019/09/27/1569596907586.html)
 * [Redis](http://xw.zhuxf.club/articles/2019/09/23/1569253614813.html)
@@ -26,7 +26,7 @@ WinkXiao 的个人博客
 * [我在 GitHub 上的开源项目](http://xw.zhuxf.club/my-github-repos)
 * [RabbitMQ的工作模式](http://xw.zhuxf.club/articles/2019/08/12/1565621457488.html)
 * [Spring源码环境搭建](http://xw.zhuxf.club/articles/2019/08/11/1565538563567.html)
-* [设计模式学习-读大话设计模式](http://xw.zhuxf.club/articles/2019/08/02/1564757614749.html)
+* [设计模式学习](http://xw.zhuxf.club/articles/2019/08/02/1564757614749.html)
 * [面向对象的理解](http://xw.zhuxf.club/articles/2019/07/28/1564321124634.html)
 * [HashMap源码阅读笔记](http://xw.zhuxf.club/articles/2019/07/28/1564315040902.html)
 * [世界，你好！](http://xw.zhuxf.club/hello-solo)
